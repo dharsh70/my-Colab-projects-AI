@@ -1,2 +1,2 @@
-# Style-Transfer-GAN
-Style transfer for one image to another using GAN
+# Colab Projects
+Just a bunch of AI projects I worked on.
